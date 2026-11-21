@@ -1,3 +1,3 @@
-## Inventario
+## Catálogo de productos
 
-El inventario muestra las unidades disponibles.
+El catálogo permite organizar los productos disponibles.
