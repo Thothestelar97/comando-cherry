@@ -1,3 +1,3 @@
-## Búsqueda de productos
+## Inventario
 
-Los productos se pueden localizar por nombre.
+El inventario muestra las unidades disponibles.
