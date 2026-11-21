@@ -1,1 +1,7 @@
-# comando-cherry
+## Catálogo de productos
+
+El catálogo permite organizar los productos disponibles.
+
+## Búsqueda de productos
+
+Los productos se pueden localizar por nombre.
