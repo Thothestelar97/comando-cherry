@@ -1,3 +1,3 @@
-## Búsqueda de productos
+## Catálogo de productos
 
-Los productos se pueden localizar por nombre.
+El catálogo permite organizar los productos disponibles.
